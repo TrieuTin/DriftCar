@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Parking
   - Road
+  - Ground
   layers:
   - Default
   - TransparentFX

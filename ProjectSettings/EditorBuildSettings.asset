@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/StartUI.unity
-    guid: 390fc31652f293042bb10f03974e76cd
+    path: Assets/Scenes/UIFlappy.unity
+    guid: 61d9866de0e6d6f47ad6dc7f58c07e50
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Flappy.unity
+    guid: 92bf24ff24642124badfcff2acc0286c
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ed9e8108d7efe1847aba697f342754d2, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: cb9dc7f09df0f6240896ad2d2c5fcc4d, type: 2}
